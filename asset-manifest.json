@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2da84c20.css",
-    "main.js": "/static/js/main.a67ab94e.js",
+    "main.css": "/static/css/main.9ac83791.css",
+    "main.js": "/static/js/main.94b20272.js",
     "static/media/header_image.png": "/static/media/header_image.92931b5c438814281a01.png",
     "static/media/CV.pdf": "/static/media/CV.011188f9cc2baa1801fa.pdf",
     "static/media/header_gradient.jpg": "/static/media/header_gradient.2b307c63eb942049984a.jpg",
@@ -11,11 +11,11 @@
     "static/media/calendar_project.JPG": "/static/media/calendar_project.2c10d749048667690f9b.JPG",
     "static/media/todo_project.JPG": "/static/media/todo_project.50ec75f93e2e5cf6905f.JPG",
     "index.html": "/index.html",
-    "main.2da84c20.css.map": "/static/css/main.2da84c20.css.map",
-    "main.a67ab94e.js.map": "/static/js/main.a67ab94e.js.map"
+    "main.9ac83791.css.map": "/static/css/main.9ac83791.css.map",
+    "main.94b20272.js.map": "/static/js/main.94b20272.js.map"
   },
   "entrypoints": [
-    "static/css/main.2da84c20.css",
-    "static/js/main.a67ab94e.js"
+    "static/css/main.9ac83791.css",
+    "static/js/main.94b20272.js"
   ]
 }
